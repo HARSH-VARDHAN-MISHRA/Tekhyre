@@ -1339,6 +1339,9 @@ body {
     color: #556270;
   }
   
+  .contact .info a{
+    color: #8795a4;
+  }
   .contact .info p {
     padding: 0 0 0 60px;
     margin-bottom: 0;
@@ -2066,7 +2069,9 @@ body {
     line-height: 1;
     font-weight: 700;
   }
-  
+  #footer .footer-top .footer-info a{
+    color: #fff;
+  }
   #footer .footer-top .footer-info p {
     font-size: 14px;
     line-height: 24px;
